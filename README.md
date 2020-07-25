@@ -1,2 +1,2 @@
-## Node.js with TypeScript template for VSCode
-Basic template for development of Node.js with TypeScript + Nodemon + Debug inside VSCode
+### Node.js with TypeScript template for VSCode
+Basic model for developing Node.js with TypeScript + Nodemon + Debug within VSCode
